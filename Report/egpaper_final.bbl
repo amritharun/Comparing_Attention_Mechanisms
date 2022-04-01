@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}\itemsep=-1pt
+
+\bibitem{Performers}
+K.~Choromanski, V.~Likhosherstov, D.~Dohan, X.~Song, A.~Gane, T.~Sarlos,
+  P.~Hawkins, J.~Davis, A.~Mohiuddin, L.~Kaiser, D.~Belanger, L.~Colwell, and
+  A.~Weller.
+\newblock Rethinking attention with performers, 2021.
+
+\bibitem{choromanski}
+K.~M. Choromanski, D.~Jain, W.~Yu, X.~Song, J.~Parker-Holder, T.~Zhang,
+  V.~Likhosherstov, A.~Pacchiano, A.~Santara, Y.~Tang, J.~Tan, and A.~Weller.
+\newblock Unlocking pixels for reinforcement learning via implicit attention,
+  2021.
+
+\bibitem{lucidrains}
+lucidrains.
+\newblock Performer pytorch.
+\newblock \url{https://github.com/lucidrains/performer-pytorch}, 2021.
+
+\bibitem{Tang}
+Y.~Tang, D.~Nguyen, and D.~Ha.
+\newblock Neuroevolution of self-interpretable agents.
+\newblock {\em Proceedings of the 2020 Genetic and Evolutionary Computation
+  Conference}, Jun 2020.
+
+\bibitem{Vaswani}
+A.~Vaswani, N.~Shazeer, N.~Parmar, J.~Uszkoreit, L.~Jones, A.~N. Gomez,
+  L.~Kaiser, and I.~Polosukhin.
+\newblock Attention is all you need, 2017.
+
+\end{thebibliography}
